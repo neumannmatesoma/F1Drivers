@@ -1,0 +1,17 @@
+.nav-link,
+.navbar-brand {
+    cursor: pointer;
+    color: white;
+}
+
+.nav-link:hover {
+    color: #FF1801;
+    font-family: 'Tahoma', sans-serif;
+}
+
+nav {
+    border-bottom: 10px double #FF1801;
+    border-top: 2.5px solid #FF1801;
+    align-items: center;
+    font-size: large;
+}
