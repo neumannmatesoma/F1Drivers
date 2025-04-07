@@ -1,0 +1,12 @@
+h3 {
+    border-bottom: 3px solid #FF1801;
+    padding: 0.5rem;
+}
+
+p {
+    font-size: large;
+    text-align: justify;
+    margin: 0.5rem;
+    display: inline-block;
+    border-bottom: 1.5px solid #FF1801;
+}
